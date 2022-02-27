@@ -1,4 +1,4 @@
-# Full Cycle - Golang Challenge
+![Full Cycle](https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg)
 
 That is the result of the challenge I had to do after finishing all the `Docker` module classes in the Full Cycle course.
 
